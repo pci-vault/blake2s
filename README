@@ -4,7 +4,7 @@ Christian Winnerlein (https://blake2.net).
 
 INSTALLATION
 
-    $ go get github.com/dchest/blake2s
+    $ go get github.com/pci-vault/blake2s
 
 
 DOCUMENTATION
